@@ -69,4 +69,7 @@ Buat file baru dengan nama about.php
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
+![data_barang](https://user-images.githubusercontent.com/81541764/121767705-2a41a980-cb84-11eb-8c1e-e68143b80730.JPG)
+
+
 
