@@ -10,7 +10,8 @@ NIM   : 311910254
 Kelas : TI.19.C1
 ~~~
 ## Langkah-langkah Praktikum
-Buat file baru dengan nama header.php
+
+## Buat file baru dengan nama header.php
 ~~~
 <!DOCTYPE html>
 <html lang="en">
@@ -32,7 +33,7 @@ Buat file baru dengan nama header.php
 ~~~
 ![header](https://user-images.githubusercontent.com/81541764/121683082-17c56280-cae7-11eb-907d-c05f8a1075a8.JPG)
 
-Buat file baru dengan nama footer.php
+## Buat file baru dengan nama footer.php
 ~~~
     <footer>
         <p>&copy; 2021, Informatika, Universitas Pelita Bangsa</p>
@@ -43,7 +44,7 @@ Buat file baru dengan nama footer.php
 ~~~
 ![footer](https://user-images.githubusercontent.com/81541764/121683349-72f75500-cae7-11eb-9635-242912933b67.JPG)
 
-Buat file baru dengan nama home.php
+## Buat file baru dengan nama home.php
 ~~~
 <?php require('header.php'); ?>
 <div class="content">
@@ -54,7 +55,7 @@ Buat file baru dengan nama home.php
 ~~~
 ![home](https://user-images.githubusercontent.com/81541764/121683684-ee590680-cae7-11eb-834f-98a262197012.JPG)
 
-Buat file baru dengan nama about.php
+## Buat file baru dengan nama about.php
 ~~~
 <?php require('header.php'); ?>
 <div class="content">
@@ -69,10 +70,10 @@ Buat file baru dengan nama about.php
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
-Tampilan index.php pada browser.
+## Tampilan index.php pada browser.
 ![data_barang](https://user-images.githubusercontent.com/81541764/121767705-2a41a980-cb84-11eb-8c1e-e68143b80730.JPG)
 
-Tampilan tambah.php pada browser.
+## Tampilan tambah.php pada browser.
 ![tambah_barang](https://user-images.githubusercontent.com/81541764/121767873-3ed27180-cb85-11eb-9fed-de3818671219.JPG)
 
 
