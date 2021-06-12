@@ -11,6 +11,10 @@ Kelas : TI.19.C1
 ~~~
 ## Langkah-langkah Praktikum
 
+## Buat folder baru dengan nama lab9_php_modular pada docroot webserver (htdocs)
+![lab9_php_modular](https://user-images.githubusercontent.com/81541764/121777362-d81c7a80-cbbb-11eb-926d-d3e991683bff.jpg)
+
+
 ## Buat file baru dengan nama header.php
 ~~~
 <!DOCTYPE html>
